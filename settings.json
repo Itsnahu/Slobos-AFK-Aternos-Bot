@@ -8,7 +8,7 @@
   "server": {
     "ip": "notsmptrue.qzz.io",
     "port": 52076,
-    "version": "",
+    "version": "26.1",
     "try-creative": false
   },
   "position": {
